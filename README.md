@@ -1,16 +1,19 @@
-## Hi there 👋
+# ummukulthum-abdulrahman
+# Public Health | Epidemiology | Digital Health
 
-<!--
-**ummuk/ummuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a public health professional with experience in health research and digital data systems.
 
-Here are some ideas to get you started:
+My interests include epidemiology, health-data analytics, digital public health, predictive modelling, and the use of evidence to support prevention and health-system decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of interest
+- Epidemiology and public health research
+- Health information systems and digital data collection
+- Statistical analysis and data visualisation
+- Predictive modelling and machine learning for healthcare
+
+## Selected projects
+- **Digital health systems:** ODK form design, validation and data-quality workflows.
+- **Evidence synthesis:** Epidemiological data extraction and systematic reviews.
+
+## Tools
+R | Python | Stata | SQL | ODK/XLSForm | KoboToolbox
